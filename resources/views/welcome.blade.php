@@ -31,11 +31,13 @@
         </div>
     </nav>
 
-    <div class="container main-div p-3 mt-5">
-
-        {{-- <div class="container title-div mb-3 border p-4">
+    <div class="container title-div mt-4 mb-2 border p-4">
             <h4>Agendamento de Salas</h4>
-        </div> --}}
+        </div>
+
+    <div class="container main-div border p-3">
+
+        
 
         {{-- <h2>Salas Reservadas</h2> --}}
         <div class="row">
