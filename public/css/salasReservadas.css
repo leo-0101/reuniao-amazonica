@@ -1,0 +1,24 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.main-div {
+  background-color: #f7f7f7;
+}
+
+.title-div {
+  text-align: center;
+  background-color: #f3f3f3;
+}
+
+.card-info {
+  font-size: 15px;
+  margin-bottom: 3px;
+}
+
+.card {
+  transition: .2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
